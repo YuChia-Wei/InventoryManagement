@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace InventoryManagement.Models.Balance
+namespace InventoryManagement.Models
 {
     /// <summary>
     /// 價值餘額
